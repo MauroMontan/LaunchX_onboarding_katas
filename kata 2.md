@@ -12,10 +12,14 @@
 python3 -m venv env
 ```
 
-- generated directories
-  ![App Screenshot](https://i.imgur.com/fndOJMB.png)
+**generated directories**
 
-- Activation
-  ![App Screenshot](https://i.imgur.com/2waxELb.png)
-- deactivate
-  ![App Screenshot](https://i.imgur.com/NMJditz.png)
+![App Screenshot](https://i.imgur.com/fndOJMB.png)
+
+**Activation**
+
+![App Screenshot](https://i.imgur.com/2waxELb.png)
+
+**deactivate**
+
+![App Screenshot](https://i.imgur.com/NMJditz.png)
